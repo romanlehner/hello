@@ -9,5 +9,5 @@ import (
 func main() {
 	fmt.Println(greetings.HelloWorldEnglish())
 	fmt.Println(greetings.HelloWorldJapanese())
-
+	fmt.Println(greetings.HelloWorldGerman())
 }
