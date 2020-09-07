@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println(greetings.HelloWorld())
+	fmt.Println(greetings.HelloWorldEnglish())
+	fmt.Println(greetings.HelloWorldJapanese())
 
 }
